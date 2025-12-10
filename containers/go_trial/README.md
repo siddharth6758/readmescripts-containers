@@ -28,14 +28,13 @@ your-repo/
 
 ---
 
-### Step 5: Add something new
+### Refereences
 
-Make sure your repo has this structure:
-```
-some docker command
-```
-
----
+- SQLite Documentation: https://www.sqlite.org/docs.html
+- View Provenance, Specifications, SBOM, Signature at: https://images.cleanstart.com/images/sqlite3
+- Docker Hub: https://hub.docker.com/r/cleanstart/sqlite3
+- CleanStart All Images: https://images.cleanstart.com
+- CleanStart All Community Images: https://hub.docker.com/u/cleanstart
 
 ### Step 6: Add something new with PR
 
