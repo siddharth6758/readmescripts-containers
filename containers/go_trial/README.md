@@ -28,11 +28,11 @@ your-repo/
 
 ---
 
-### Refereences
+### References
 
 - SQLite Documentation: https://www.sqlite.org/docs.html
-- View Provenance, Specifications, SBOM, Signature at: https://images.cleanstart.com/images/sqlite3
-- Docker Hub: https://hub.docker.com/r/cleanstart/sqlite3
+- View Provenance, Specifications, SBOM, Signature at: https://images.cleanstart.com/images/go_trial
+- Docker Hub: https://hub.docker.com/r/cleanstart/go_trial
 - CleanStart All Images: https://images.cleanstart.com
 - CleanStart All Community Images: https://hub.docker.com/u/cleanstart
 
