@@ -25,3 +25,12 @@ your-repo/
 │   └── java/
 │       └── README.md
 ```
+
+---
+
+### Step 5: Add something new
+
+Make sure your repo has this structure:
+```
+some docker command
+```
