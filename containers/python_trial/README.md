@@ -24,3 +24,12 @@ your-repo/
 │   └── java/
 │       └── README.md
 ```
+
+---
+
+### Step 6: Add something new with PR
+
+Make sure your repo has this structure:
+```
+some docker command
+```
