@@ -34,3 +34,12 @@ Make sure your repo has this structure:
 ```
 some docker command
 ```
+
+---
+
+### Step 6: Add something new with PR
+
+Make sure your repo has this structure:
+```
+some docker command
+```
