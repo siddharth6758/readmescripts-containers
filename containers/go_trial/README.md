@@ -30,11 +30,7 @@ your-repo/
 
 ### References
 
-- SQLite Documentation: https://www.sqlite.org/docs.html
-- View Provenance, Specifications, SBOM, Signature at: https://images.cleanstart.com/images/go_trial
-- Docker Hub: https://hub.docker.com/r/cleanstart/go_trial
-- CleanStart All Images: https://images.cleanstart.com
-- CleanStart All Community Images: https://hub.docker.com/u/cleanstart
+This is a new section
 
 ### Step 6: Add something new with PR
 
