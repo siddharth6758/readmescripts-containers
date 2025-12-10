@@ -38,7 +38,6 @@ Make sure your repo has this structure:
 ```
 some docker command
 ```
-Pythonn updated
 
 ### Step 6: Add something new with PR
 
