@@ -38,4 +38,3 @@ your-repo/
 - View Provenance, Specifications, SBOM, Signature at: https://images.cleanstart.com/images/python_trial
 - Docker Hub: https://hub.docker.com/r/cleanstart/python_trial
 - CleanStart All Images: https://images.cleanstart.com
-- CleanStart All Community Images: https://hub.docker.com/u/cleanstart
